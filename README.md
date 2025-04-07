@@ -1,6 +1,6 @@
 # ft_printf
 
-### Parce -42% pour un prinft c'est nul
+### Parce que -42% pour un prinft c'est nul
 Bienvenue dans le premier cercle de l'école ! Vous vous souvenez quand je disais que vous alliez regretter si vous bacliez votre libft ?
 C'est maintenant ! Le projet est simple à réaliser, le plus gros du travail est déjà fait avec libft.
 Si vous ne l'avez jamais fait c'est l'heure d'apprendre à utiliser une librairie dans votre projet.
